@@ -1,1 +1,46 @@
-Hello World
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+.hero {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+
+.supporting h2 {
+  font-size: 32px;
+}
+
+.supporting h3 {
+  font-size: 23px;
+}
+
+.supporting-item p {
+  font-size: 14px;
+}
+
+.hero h2 {
+  font-size: 23px;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+  color: white;
+}
